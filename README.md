@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hkate1989
+- 👋 Hi, I’m Kate
 - 👀 I’m interested in Data Science, Cats, Chess, Poker, and anything longevity
 - 🌱 I’m currently learning on LLM (of course)
 - 📫 How to reach me: qyhuang.work@gmail.com 
