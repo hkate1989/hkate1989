@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+  <title id="title">Kate Huang — Research Desk No. 26</title>
+  <desc id="desc">An editorial masthead for artificial intelligence, data, and experiments.</desc>
+  <style>
+    .paper { fill: #f1ebdd; }
+    .ink { fill: #171714; }
+    .rule { stroke: #171714; }
+    .red { fill: #6f1d2c; }
+    .muted { fill: #66747a; }
+    .serif { font-family: Georgia, 'Times New Roman', serif; }
+    .sans { font-family: 'Arial Narrow', 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'Courier New', monospace; }
+    @media (prefers-color-scheme: dark) {
+      .paper { fill: #181816; }
+      .ink { fill: #eee7d8; }
+      .rule { stroke: #eee7d8; }
+      .red { fill: #b86a73; }
+      .muted { fill: #9caaad; }
+    }
+  </style>
+  <rect class="paper" width="1200" height="500"/>
+  <line class="rule" x1="54" y1="48" x2="1146" y2="48" stroke-width="2"/>
+  <text class="ink sans" x="54" y="81" font-size="16" font-weight="700" letter-spacing="4">ARTIFICIAL INTELLIGENCE · DATA · EXPERIMENTS</text>
+  <text class="red mono" x="1146" y="81" text-anchor="end" font-size="14" letter-spacing="2">VOL. I / NO. 26</text>
+  <text class="ink serif" x="48" y="265" font-size="142" letter-spacing="-7">KATE</text>
+  <text class="ink serif" x="505" y="265" font-size="142" font-style="italic" letter-spacing="-8">HUANG</text>
+  <line class="rule" x1="54" y1="302" x2="1146" y2="302" stroke-width="1"/>
+  <text class="muted mono" x="54" y="337" font-size="15" letter-spacing="2">RESEARCH DESK Nº 26</text>
+  <text class="ink sans" x="54" y="390" font-size="25" font-weight="600">FORM A HYPOTHESIS. TEST IT.</text>
+  <text class="ink serif" x="54" y="430" font-size="28" font-style="italic">Learn from the result.</text>
+  <text class="muted mono" x="1146" y="390" text-anchor="end" font-size="14" letter-spacing="1">SAN FRANCISCO PENINSULA</text>
+  <text class="muted mono" x="1146" y="420" text-anchor="end" font-size="14" letter-spacing="1">16 JUL 2026 / 09:00 PT</text>
+  <rect class="red" x="1112" y="447" width="34" height="5"/>
+</svg>
